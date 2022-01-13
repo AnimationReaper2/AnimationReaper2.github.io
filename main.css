@@ -7,8 +7,9 @@ body, html {
   background-color: white;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 20px;
-  color: white;
+  color: #2E5984;
   height: 100vh;
+  text-align: center;
 }
 /* HERO IMAGE */
 .hero-image {
@@ -64,7 +65,8 @@ ul {
   background-color: rgb(31, 31, 83);
 }
 .main h2{
-  color: black;
+  color: #1E3F66;
+  text-align: center;
 }
 /* FOOTER */
 .closing{
